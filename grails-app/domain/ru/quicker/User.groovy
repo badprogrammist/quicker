@@ -1,5 +1,8 @@
 package ru.quicker
 
+import ru.quicker.project.Project
+import ru.quicker.project.UserProject
+
 class User {
 
 	transient springSecurityService
@@ -17,6 +20,7 @@ class User {
 	static constraints = {
 		username blank: false, unique: true
 		password blank: false, password:true
+        name blank: false
 	}
 
 	static mapping = {

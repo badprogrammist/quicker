@@ -99,10 +99,11 @@ environments {
 grails.plugin.springsecurity.userLookup.userDomainClassName = 'ru.quicker.User'
 grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'ru.quicker.UserRole'
 grails.plugin.springsecurity.authority.className = 'ru.quicker.Role'
-grails.plugins.springsecurity.password.algorithm='SHA-512'      //pw encryption algorithm
-grails.plugins.springsecurity.portMapper.httpPort = "8080"      //port map for http
-grails.plugins.springsecurity.portMapper.httpsPort = "8443"     //port map for https
-grails.plugins.springsecurity.rejectIfNoRule = true             //force authentication if no rule exists
+grails.plugin.springsecurity.password.algorithm='SHA-512'      //pw encryption algorithm
+grails.plugin.springsecurity.portMapper.httpPort = "8080"      //port map for http
+grails.plugin.springsecurity.portMapper.httpsPort = "8443"     //port map for https
+grails.plugin.springsecurity.rejectIfNoRule = true             //force authentication if no rule exists
+grails.plugin.springsecurity.securityConfigType = "Annotation"
 grails.plugin.springsecurity.controllerAnnotations.staticRules = [
         '/':                              ['permitAll'],
         '/index':                         ['permitAll'],

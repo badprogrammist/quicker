@@ -32,7 +32,7 @@ class UserRole implements Serializable {
 		}.get()
 	}
 
-	static boolean exists(Long userId, Long roleId) {
+	static boolean exists(long userId, long roleId) {
 		UserRole.where {
 			user == User.load(userId) &&
 			role == Role.load(roleId)
