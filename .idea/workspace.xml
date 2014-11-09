@@ -2,34 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e39ea0c-c9e2-4e45-bc26-ad096a0e7182" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/project/_tasks.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/jquery-2.1.1.min.js" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\grails-app\assets\stylesheets\main.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\grails-app\assets\stylesheets\mobile.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\JqueryGrailsPlugin.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\application.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\dependencies.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\grails-app\assets\javascripts\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\grails-app\conf\JQueryConfig.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\grails-app\conf\JQueryPluginResources.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\grails-app\services\JQueryService.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\grails-app\taglib\JQueryResourceTagLib.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\grails-app\taglib\JQueryTagLib.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\scripts\InstallJQuery.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\src\groovy\org\codehaus\groovy\grails\plugins\jquery\JQueryConfig.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\src\groovy\org\codehaus\groovy\grails\plugins\jquery\JQueryProvider.groovy" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\web-app\js\jquery\jquery-1.11.1.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\web-app\js\jquery\jquery-1.11.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\ILDAR\quicker\quicker\target\work\plugins\jquery-1.11.1\web-app\js\jquery\jquery-1.11.1.min.map" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/project/_list.gsp" afterPath="$PROJECT_DIR$/grails-app/views/project/_list.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quicker-grailsPlugins.iml" afterPath="$PROJECT_DIR$/quicker-grailsPlugins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quicker.iml" afterPath="$PROJECT_DIR$/quicker.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="quicker.iws" />
@@ -53,114 +25,7 @@
     <favorites_list name="quicker" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="show.gsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/project/show.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.8297873" vertical-offset="90" max-vertical-offset="705">
-              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery-2.1.1.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/assets/javascripts/jquery-2.1.1.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Project.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/ru/quicker/project/Project.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3" vertical-offset="0" max-vertical-offset="285">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Task.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/ru/quicker/project/Task.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.8" vertical-offset="0" max-vertical-offset="375">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.gsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="240">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectController.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/ru/quicker/project/ProjectController.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="18.26087" vertical-offset="705" max-vertical-offset="1455">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create.gsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/project/create.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34951457" vertical-offset="0" max-vertical-offset="515">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.gsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/project/index.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.1914895" vertical-offset="0" max-vertical-offset="285">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_form.gsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/project/_form.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.63829786" vertical-offset="0" max-vertical-offset="180">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.gsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/project/edit.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.319149" vertical-offset="203" max-vertical-offset="705">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -505,17 +370,21 @@
       <workItem from="1415446175330" duration="44000" />
       <workItem from="1415446252645" duration="1566000" />
       <workItem from="1415447849657" duration="18124000" />
-      <workItem from="1415515743826" duration="3851000" />
+      <workItem from="1415515743826" duration="3921000" />
     </task>
     <task id="LOCAL-00001" summary="прототип проектов">
       <created>1415458997077</created>
       <updated>1415458997077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="прототип задач">
+      <created>1415527623942</created>
+      <updated>1415527623942</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26961000" />
+    <option name="totallyTimeSpent" value="27031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -545,7 +414,8 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21482602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21482602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -553,7 +423,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -573,7 +442,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="прототип проектов" />
-    <option name="LAST_COMMIT_MESSAGE" value="прототип проектов" />
+    <MESSAGE value="прототип задач" />
+    <option name="LAST_COMMIT_MESSAGE" value="прототип задач" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -795,17 +665,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/ru/quicker/project/UserProjectRole.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08395522" vertical-offset="0" max-vertical-offset="536">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
@@ -916,7 +775,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -942,7 +801,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/project/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1914895" vertical-offset="0" max-vertical-offset="285">
+        <state vertical-scroll-proportion="0.2788104" vertical-offset="0" max-vertical-offset="538">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding />
         </state>
@@ -950,7 +809,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/project/edit.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.319149" vertical-offset="203" max-vertical-offset="705">
+        <state vertical-scroll-proportion="-0.34285715" vertical-offset="180" max-vertical-offset="705">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1001,7 +860,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/project/_form.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.63829786" vertical-offset="0" max-vertical-offset="180">
+        <state vertical-scroll-proportion="0.055762082" vertical-offset="0" max-vertical-offset="538">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
@@ -1009,10 +868,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/project/create.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34951457" vertical-offset="0" max-vertical-offset="515">
+        <state vertical-scroll-proportion="-3.8297873" vertical-offset="0" max-vertical-offset="330">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/ru/quicker/project/UserProjectRole.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07692308" vertical-offset="0" max-vertical-offset="585">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
       </provider>
     </entry>
   </component>
