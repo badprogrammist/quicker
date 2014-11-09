@@ -12,7 +12,7 @@
             <td><g:link action="show" resource="${projectInstance}">${projectInstance.title}</g:link> </td>
             <td>
                 <g:each in="${projectInstance.users}" var="userProjectInstance">
-                    ${userProjectInstance.user.name},
+                    ${userProjectInstance.user.name}
                 </g:each>
             </td>
         </tr>
